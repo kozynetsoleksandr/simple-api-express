@@ -4,7 +4,7 @@ class RatesService {
     
     async findCurrency(nameCurrency) {
         const getCurrency = await loadCurrency(nameCurrency);
-        return getCurrency.data.rateUsd;  
+        return getCurrency;  
     }
 }
 
