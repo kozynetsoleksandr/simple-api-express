@@ -19,5 +19,3 @@ Start the container
 You can then access the application through the following URL:
 
     http://127.0.0.1:3000
-
-
