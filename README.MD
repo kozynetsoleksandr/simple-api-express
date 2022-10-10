@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Simple apt for Onix by Kozynets Oleksandr</h1>
+    <h1 align="center">Simple app for Onix by Kozynets Oleksandr</h1>
     <br>
 </p>
 ### Start project with docker 
